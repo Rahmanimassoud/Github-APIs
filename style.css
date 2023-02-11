@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    border: 2px solid black;
+    justify-content: space-between;
+    height: 200px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: rgb(126, 132, 130);
+}
+.card img{
+    height: 120px;
+    border-radius: 50%;
+}
+.main button, .main input {
+    background-color: rgb(56, 59, 59);
+    color: antiquewhite;
+}
